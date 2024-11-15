@@ -1,0 +1,46 @@
+[
+    {
+        "name": "description",
+        "value": "Macaafa Qulqulluu"
+    },
+    {
+        "name": "detailed_info",
+        "value": "West Oromo Bible – Macaafa Qulqulluu <br/>\r\nBible Society of Ethiopia <br/>\r\nWest Central Oromo"
+    },
+    {
+        "name": "language",
+        "value": "West Central Oromo"
+    },
+    {
+        "name": "chapter_string",
+        "value": "― %s ―"
+    },
+    {
+        "name": "chapter_string_ps",
+        "value": "― %s ―"
+    },
+    {
+        "name": "contains_accents",
+        "value": "true"
+    },
+    {
+        "name": "region",
+        "value": "Ethiopia"
+    },
+    {
+        "name": "html_style",
+        "value": "i  { color: %COLOR_BLUE%; } \nem { color: %COLOR_BLUE%; } \na  { text-decoration: none; } \nspan.sc { font-variant: small-caps; } \nspan.pn { text-decoration: underline; } \nspan.RTL { direction: rtl; display: inline; } \np.footnote_header { display: inline; }\np.footnote_header b small { color: %COLOR_FOOTNOTE_MARKER%; }\nspan.xop { display: none; }"
+    },
+    {
+        "name": "add_space_before_footnote_marker",
+        "value": "true"
+    },
+    {
+        "name": "origin",
+        "value": "Created by Oleg Safonov (E-mail: osafonov@gmail.com, Telegram: @osafonov).\nOrigin: https://www.bible.com/versions/3202"
+    },
+    {
+        "name": "history_of_changes",
+        "value": "(2022-02-04) Published"
+    }
+]

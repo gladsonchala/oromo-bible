@@ -1,0 +1,596 @@
+[
+    {
+        "book_color": "#ccccff",
+        "book_number": 10,
+        "is_present": 1,
+        "long_name": "Seera Uumamaa",
+        "short_name": "Uma",
+        "sorting_order": 100,
+        "title": "Seera Uumamaa"
+    },
+    {
+        "book_color": "#ccccff",
+        "book_number": 20,
+        "is_present": 1,
+        "long_name": "Seera Ba'uu",
+        "short_name": "Bau",
+        "sorting_order": 200,
+        "title": "Seera Ba'uu"
+    },
+    {
+        "book_color": "#ccccff",
+        "book_number": 30,
+        "is_present": 1,
+        "long_name": "Seera Lewwootaa",
+        "short_name": "Lew",
+        "sorting_order": 300,
+        "title": "Seera Lewwootaa"
+    },
+    {
+        "book_color": "#ccccff",
+        "book_number": 40,
+        "is_present": 1,
+        "long_name": "Seera Lakkoobsaa",
+        "short_name": "Lak",
+        "sorting_order": 400,
+        "title": "Seera Lakkoobsaa"
+    },
+    {
+        "book_color": "#ccccff",
+        "book_number": 50,
+        "is_present": 1,
+        "long_name": "Seera Keessa Deebii",
+        "short_name": "Kes",
+        "sorting_order": 500,
+        "title": "Seera Keessa Deebii"
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 60,
+        "is_present": 1,
+        "long_name": "Macaafa Iyaasuu",
+        "short_name": "Iya",
+        "sorting_order": 600,
+        "title": "Macaafa Iyaasuu"
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 70,
+        "is_present": 1,
+        "long_name": "Macaafa Abboota Firdii",
+        "short_name": "Abo",
+        "sorting_order": 700,
+        "title": "Macaafa Abboota Firdii"
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 80,
+        "is_present": 1,
+        "long_name": "Macaafa Ruut",
+        "short_name": "Rut",
+        "sorting_order": 800,
+        "title": "Macaafa Ruut"
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 90,
+        "is_present": 1,
+        "long_name": "Macaafa Saamu'el Isa Duraa",
+        "short_name": "1Sam",
+        "sorting_order": 900,
+        "title": "Macaafa Saamu'el Isa Duraa"
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 100,
+        "is_present": 1,
+        "long_name": "Macaafa Saamu'el Isa Lammaffaa",
+        "short_name": "2Sam",
+        "sorting_order": 1000,
+        "title": "Macaafa Saamu'el Isa Lammaffaa"
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 110,
+        "is_present": 1,
+        "long_name": "Macaafa Moototaa Isa Duraa",
+        "short_name": "1Mot",
+        "sorting_order": 1100,
+        "title": "Macaafa Moototaa Isa Duraa"
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 120,
+        "is_present": 1,
+        "long_name": "Macaafa Moototaa Isa Lammaffaa",
+        "short_name": "2Mot",
+        "sorting_order": 1200,
+        "title": "Macaafa Moototaa Isa Lammaffaa"
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 130,
+        "is_present": 1,
+        "long_name": "Macaafa Seenaa Baraa Isa Duraa",
+        "short_name": "1Sen",
+        "sorting_order": 1300,
+        "title": "Macaafa Seenaa Baraa Isa Duraa"
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 140,
+        "is_present": 1,
+        "long_name": "Macaafa Seenaa Baraa Isa Lammaffaa",
+        "short_name": "2Sen",
+        "sorting_order": 1400,
+        "title": "Macaafa Seenaa Baraa Isa Lammaffaa"
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 150,
+        "is_present": 1,
+        "long_name": "Macaafa Izraa",
+        "short_name": "Iz",
+        "sorting_order": 1500,
+        "title": "Macaafa Izraa"
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 160,
+        "is_present": 1,
+        "long_name": "Macaafa Nahimiiyaa",
+        "short_name": "Nah",
+        "sorting_order": 1600,
+        "title": "Macaafa Nahimiiyaa"
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 190,
+        "is_present": 1,
+        "long_name": "Macaafa Asteer",
+        "short_name": "As",
+        "sorting_order": 1700,
+        "title": "Macaafa Asteer"
+    },
+    {
+        "book_color": "#66ff99",
+        "book_number": 220,
+        "is_present": 1,
+        "long_name": "Macaafa Iyoob",
+        "short_name": "Iyo",
+        "sorting_order": 1800,
+        "title": "Macaafa Iyoob"
+    },
+    {
+        "book_color": "#66ff99",
+        "book_number": 230,
+        "is_present": 1,
+        "long_name": "MACAAFA FAARFANNAA",
+        "short_name": "Far",
+        "sorting_order": 1900,
+        "title": "MACAAFOTA FAARFANNAA"
+    },
+    {
+        "book_color": "#66ff99",
+        "book_number": 240,
+        "is_present": 1,
+        "long_name": "Macaafa Fakkeenyaa",
+        "short_name": "Fak",
+        "sorting_order": 2000,
+        "title": "Macaafa Fakkeenyaa"
+    },
+    {
+        "book_color": "#66ff99",
+        "book_number": 250,
+        "is_present": 1,
+        "long_name": "Macaafa Lallabaa",
+        "short_name": "Lal",
+        "sorting_order": 2100,
+        "title": "Macaafa Lallabaa"
+    },
+    {
+        "book_color": "#66ff99",
+        "book_number": 260,
+        "is_present": 1,
+        "long_name": "Macaafa Weedduu Weedduu Caalu",
+        "short_name": "Wed",
+        "sorting_order": 2200,
+        "title": "Macaafa Weedduu Weedduu Caalu"
+    },
+    {
+        "book_color": "#ff9fb4",
+        "book_number": 290,
+        "is_present": 1,
+        "long_name": "Macaafa Isaayaas Raajichaa",
+        "short_name": "Isa",
+        "sorting_order": 2300,
+        "title": "Macaafa Isaayaas Raajichaa"
+    },
+    {
+        "book_color": "#ff9fb4",
+        "book_number": 300,
+        "is_present": 1,
+        "long_name": "Macaafa Ermiyaas Raajichaa",
+        "short_name": "Er",
+        "sorting_order": 2400,
+        "title": "Macaafa Ermiyaas Raajichaa"
+    },
+    {
+        "book_color": "#ff9fb4",
+        "book_number": 310,
+        "is_present": 1,
+        "long_name": "Faaruu Ermiyaas",
+        "short_name": "Faru",
+        "sorting_order": 2500,
+        "title": "Macaafa Faaruu Ermiyaas"
+    },
+    {
+        "book_color": "#ff9fb4",
+        "book_number": 330,
+        "is_present": 1,
+        "long_name": "Macaafa Hisqi'el Raajichaa",
+        "short_name": "His",
+        "sorting_order": 2600,
+        "title": "Macaafa Hisqi'el Raajichaa"
+    },
+    {
+        "book_color": "#ff9fb4",
+        "book_number": 340,
+        "is_present": 1,
+        "long_name": "Macaafa Daani'el Raajichaa",
+        "short_name": "Dan",
+        "sorting_order": 2700,
+        "title": "Macaafa Daani'el Raajichaa"
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 350,
+        "is_present": 1,
+        "long_name": "Macaafa Hose'a Raajichaa",
+        "short_name": "Hos",
+        "sorting_order": 2800,
+        "title": "Macaafa Hose'a Raajichaa"
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 360,
+        "is_present": 1,
+        "long_name": "Macaafa Yo'el Raajichaa",
+        "short_name": "Yoe",
+        "sorting_order": 2900,
+        "title": "Macaafa Yo'el Raajichaa"
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 370,
+        "is_present": 1,
+        "long_name": "Macaafa Amos Raajichaa",
+        "short_name": "Amo",
+        "sorting_order": 3000,
+        "title": "Macaafa Amos Raajichaa"
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 380,
+        "is_present": 1,
+        "long_name": "Macaafa Obaadiiyaa Raajichaa",
+        "short_name": "Oba",
+        "sorting_order": 3100,
+        "title": "Macaafa Obaadiiyaa Raajichaa"
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 390,
+        "is_present": 1,
+        "long_name": "Yoonaas Raajichaa",
+        "short_name": "Yon",
+        "sorting_order": 3200,
+        "title": "Macaafa Yoonaas Raajichaa"
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 400,
+        "is_present": 1,
+        "long_name": "Macaafa Miikiyaas Raajichaa",
+        "short_name": "Mik",
+        "sorting_order": 3300,
+        "title": "Macaafa Miikiyaas Raajichaa"
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 410,
+        "is_present": 1,
+        "long_name": "Macaafa Naahom Raajichaa",
+        "short_name": "Naho",
+        "sorting_order": 3400,
+        "title": "Macaafa Naahom Raajichaa"
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 420,
+        "is_present": 1,
+        "long_name": "Macaafa Anbaaqom Raajichaa",
+        "short_name": "An",
+        "sorting_order": 3500,
+        "title": "Macaafa Anbaaqom Raajichaa"
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 430,
+        "is_present": 1,
+        "long_name": "Macaafa Sefaaniyaa Raajichaa",
+        "short_name": "Sef",
+        "sorting_order": 3600,
+        "title": "Macaafa Sefaaniyaa Raajichaa"
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 440,
+        "is_present": 1,
+        "long_name": "Macaafa Haagee Raajichaa",
+        "short_name": "Hag",
+        "sorting_order": 3700,
+        "title": "Macaafa Haagee Raajichaa"
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 450,
+        "is_present": 1,
+        "long_name": "Macaafa Zakaariyaas Raajichaa",
+        "short_name": "Zak",
+        "sorting_order": 3800,
+        "title": "Macaafa Zakaariyaas Raajichaa"
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 460,
+        "is_present": 1,
+        "long_name": "Macaafa Miilkiyaas Raajichaa",
+        "short_name": "Mil",
+        "sorting_order": 3900,
+        "title": "Macaafa Miilkiyaas Raajichaa"
+    },
+    {
+        "book_color": "#ff6600",
+        "book_number": 470,
+        "is_present": 1,
+        "long_name": "WANGEELA MAATEWOS",
+        "short_name": "Mat",
+        "sorting_order": 4000,
+        "title": "WANGEELA GOOFTAA KEENYAA YESUS KRISTOS ISA QULQULLUU ISA MAATEWOS CAAFE"
+    },
+    {
+        "book_color": "#ff6600",
+        "book_number": 480,
+        "is_present": 1,
+        "long_name": "WANGEELA MAARQOS",
+        "short_name": "Mar",
+        "sorting_order": 4100,
+        "title": "WANGEELA GOOFTAA KEENYAA YESUS KRISTOS ISA QULQULLUU ISA MAARQOS CAAFE"
+    },
+    {
+        "book_color": "#ff6600",
+        "book_number": 490,
+        "is_present": 1,
+        "long_name": "WANGEELA LUQAAS",
+        "short_name": "Luq",
+        "sorting_order": 4200,
+        "title": "WANGEELA GOOFTAA KEENYAA YESUS KRISTOS ISA QULQULLUU ISA LUQAAS CAAFE"
+    },
+    {
+        "book_color": "#ff6600",
+        "book_number": 500,
+        "is_present": 1,
+        "long_name": "WANGEELA YOHANNIS",
+        "short_name": "Yoh",
+        "sorting_order": 4300,
+        "title": "WANGEELA GOOFTAA KEENYAA YESUS KRISTOS ISA QULQULLUU ISA YOHANNIS CAAFE"
+    },
+    {
+        "book_color": "#00ffff",
+        "book_number": 510,
+        "is_present": 1,
+        "long_name": "HOJII ERGAMOOTAA",
+        "short_name": "HoE",
+        "sorting_order": 4400,
+        "title": "HOJII ERGAMOOTAA"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 520,
+        "is_present": 1,
+        "long_name": "GARA WARRA ROOMAA",
+        "short_name": "Rom",
+        "sorting_order": 4500,
+        "title": "ERGAA PHAAWULOS GARA WARRA ROOMAATTI ERGE"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 530,
+        "is_present": 1,
+        "long_name": "1 GARA WARRA QORONTOS",
+        "short_name": "1Qor",
+        "sorting_order": 4600,
+        "title": "ERGAA PHAAWULOS GARA WARRA QORONTOSITTI ERGE ISA DURAA"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 540,
+        "is_present": 1,
+        "long_name": "2 GARA WARRA QORONTOS",
+        "short_name": "2Qor",
+        "sorting_order": 4700,
+        "title": "ERGAA PHAAWULOS GARA WARRA QORONTOSITTI ERGE ISA LAMMAFFAA"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 550,
+        "is_present": 1,
+        "long_name": "Gara Warra Galaatiyaa",
+        "short_name": "Gal",
+        "sorting_order": 4800,
+        "title": "Ergaa Phaawulos Gara Warra Galaatiyaatti Erge"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 560,
+        "is_present": 1,
+        "long_name": "GARA WARRA EFESOON",
+        "short_name": "Efe",
+        "sorting_order": 4900,
+        "title": "ERGAA PHAAWULOS GARA WARRA EFESOONITTI ERGE"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 570,
+        "is_present": 1,
+        "long_name": "GARA WARRA FILIPHISIIYUS",
+        "short_name": "Filp",
+        "sorting_order": 5000,
+        "title": "ERGAA PHAAWULOS GARA WARRA FILIPHISIIYUSITTI ERGE"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 580,
+        "is_present": 1,
+        "long_name": "GARA WARRA QOLOSAAYIS",
+        "short_name": "Qol",
+        "sorting_order": 5100,
+        "title": "ERGAA PHAAWULOS GARA WARRA QOLOSAAYISITTI ERGE"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 590,
+        "is_present": 1,
+        "long_name": "1 GARA WARRA TASALONIIQEE",
+        "short_name": "1Tas",
+        "sorting_order": 5200,
+        "title": "ERGAA PHAAWULOS GARA WARRA TASALONIIQEETTI ERGE ISA DURAA"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 600,
+        "is_present": 1,
+        "long_name": "2 GARA WARRA TASALONIIQEE",
+        "short_name": "2Tas",
+        "sorting_order": 5300,
+        "title": "ERGAA PHAAWULOS GARA WARRA TASALONIIQEETTI ERGE ISA LAMMAFFAA"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 610,
+        "is_present": 1,
+        "long_name": "1 GARA THIMOTEWOS",
+        "short_name": "1Xim",
+        "sorting_order": 5400,
+        "title": "ERGAA PHAAWULOS GARA THIMOTEWOSITTI ERGE ISA DURAA"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 620,
+        "is_present": 1,
+        "long_name": "2 GARA THIMOTEWOS",
+        "short_name": "2Xim",
+        "sorting_order": 5500,
+        "title": "ERGAA PHAAWULOS GARA THIMOTEWOSITTI ERGE ISA LAMMAFFAA"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 630,
+        "is_present": 1,
+        "long_name": "GARA TIITOOS",
+        "short_name": "Tit",
+        "sorting_order": 5600,
+        "title": "ERGAA PHAAWULOS GARA TIITOOSITTI ERGE"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 640,
+        "is_present": 1,
+        "long_name": "GARA FILEMON",
+        "short_name": "Film",
+        "sorting_order": 5700,
+        "title": "ERGAA PHAAWULOS GARA FILEMONITTI ERGE"
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 650,
+        "is_present": 1,
+        "long_name": "GARA IBROOTAA",
+        "short_name": "Ibr",
+        "sorting_order": 5800,
+        "title": "ERGAA GARA IBROOTAATTI ERGAME"
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 660,
+        "is_present": 1,
+        "long_name": "ERGAA YAAQOOB",
+        "short_name": "Yaq",
+        "sorting_order": 5900,
+        "title": "ERGAA YAAQOOB ERGE"
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 670,
+        "is_present": 1,
+        "long_name": "1 ERGAA PHETHROS",
+        "short_name": "1Phe",
+        "sorting_order": 6000,
+        "title": "ERGAA PHETHROS ERGE ISA DURAA"
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 680,
+        "is_present": 1,
+        "long_name": "2 ERGAA PHETHROS",
+        "short_name": "2Phe",
+        "sorting_order": 6100,
+        "title": "ERGAA PHETHROS ERGE ISA LAMMAFFAA"
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 690,
+        "is_present": 1,
+        "long_name": "1 ERGAA YOHANNIS",
+        "short_name": "1Yoh",
+        "sorting_order": 6200,
+        "title": "ERGAA YOHANNIS ERGE ISA DURAA"
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 700,
+        "is_present": 1,
+        "long_name": "2 ERGAA YOHANNIS",
+        "short_name": "2Yoh",
+        "sorting_order": 6300,
+        "title": "ERGAA YOHANNIS ERGE ISA LAMMAFFAA"
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 710,
+        "is_present": 1,
+        "long_name": "3 ERGAA YOHANNIS",
+        "short_name": "3Yoh",
+        "sorting_order": 6400,
+        "title": "ERGAA YOHANNIS ERGE ISA SADAFFAA"
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 720,
+        "is_present": 1,
+        "long_name": "ERGAA YIHUDAA",
+        "short_name": "Yih",
+        "sorting_order": 6500,
+        "title": "ERGAA YIHUDAAN ERGE"
+    },
+    {
+        "book_color": "#ff7c80",
+        "book_number": 730,
+        "is_present": 1,
+        "long_name": "MUL'ATA YOHANNIS",
+        "short_name": "Mul",
+        "sorting_order": 6600,
+        "title": "MUL'ATA YOHANNISITTI MUL'ATE"
+    }
+]
